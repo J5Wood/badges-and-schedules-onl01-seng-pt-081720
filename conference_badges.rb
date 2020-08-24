@@ -28,7 +28,7 @@ def printer(attendees)
   batch_badge_creator(attendees)
   puts badges
   binding.pry
-  
+
 
 
 end
