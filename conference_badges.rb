@@ -28,5 +28,5 @@ def printer
   batch_badge_creator
   badges.each{|badge| puts badge}
   binding.pry
-  
+
 end
