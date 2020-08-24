@@ -29,6 +29,6 @@ def printer(attendees)
     puts x
   end
   binding.pry
-  room_assignments(attendees)
+  assign_rooms(attendees)
   room_assignments.each{|assignment| puts assignment}
 end
